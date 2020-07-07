@@ -1,0 +1,1 @@
+# 7/7 JP Notes: Running into some issues with rails - sync-up tonight, troubleshooting.. created a front-end only version (.js and .html).. 
